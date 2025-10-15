@@ -177,6 +177,8 @@ This platform demonstrates real environmental impact through funded projects:
 
 *Built with ❤ for a sustainable future* 🌱
 
+![Sytem Architecture] (/Technical.png)
+
 
 
 
