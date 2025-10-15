@@ -117,6 +117,7 @@ This platform supports multiple user types, each with specific features and dash
 - Third-party verification status
 - SDG alignment indicators
 
+## System Architecture
 ![Technical Architecture](Technical.png)
 
 ## Folder Structure (Overview)
