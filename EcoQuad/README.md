@@ -217,3 +217,6 @@ The database tables are created automatically when the Flask app starts. For pro
 ## License
 
 This project is licensed under the MIT License.
+
+### My Project Screenshot
+![Project Screenshot](/Technical.png)
