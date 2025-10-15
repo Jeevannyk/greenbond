@@ -1,0 +1,4 @@
+# Ignore env files
+.env
+EcoQuad/payment-backend/.env
+EcoQuad/shadcn-ui/.env.example
