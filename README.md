@@ -117,6 +117,8 @@ This platform supports multiple user types, each with specific features and dash
 - Third-party verification status
 - SDG alignment indicators
 
+![Technical Architecture](Technical.png)
+
 ## Folder Structure (Overview)
 
 
@@ -177,7 +179,7 @@ This platform demonstrates real environmental impact through funded projects:
 
 *Built with ❤ for a sustainable future* 🌱
 
-![Technical Architecture](Technical.png)
+
 
 
 
